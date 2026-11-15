@@ -1,0 +1,7 @@
+{
+  "gateann": {
+    "repository": "https://github.com/GyuyeongKim/GateANN-public.git",
+    "commit": "71e87cbf0e25c0400c0109dd25a64a7c4dccc9dd",
+    "note": "Bundled source with the course AIO fix and rare-label scan."
+  }
+}

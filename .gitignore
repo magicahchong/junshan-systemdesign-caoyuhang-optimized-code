@@ -1,0 +1,7 @@
+systems/*
+!systems/GateANN-public/
+datasets/
+course_runs/
+build/
+__pycache__/
+*.pyc
